@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "speakerName": "speakerName",
+      "slots": [
+        {
+          "name": "Speaker",
+          "type": "AMAZON.PERSON"
+        }
+      ]
+    },
+    {
+      "intent": "speakerDateOfBirth",
+      "slots": [
+        {
+          "name": "DateOfBirth",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    }
+  ]
+}
