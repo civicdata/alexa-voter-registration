@@ -1,1 +1,2 @@
-testUtterances tell Alexa 
+speakerName AMAZON.person
+speakerDateOfBirth  AMAZON.date
