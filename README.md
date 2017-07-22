@@ -14,5 +14,5 @@ When can I vote?
 _____
 
 ### Future:
-Am I registered to vote?
+Am I registered to vote? 
 Allow registration to vote?
