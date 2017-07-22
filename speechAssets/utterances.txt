@@ -1,2 +1,5 @@
-speakerName AMAZON.person
-speakerDateOfBirth  AMAZON.date
+FindVoterLocation tell me the nearest voter registration to me
+FindVoterLocation where is my voting location
+FindVoterLocation where do I vote
+FindVoterLocation polling place
+FindVoterLocation vote
